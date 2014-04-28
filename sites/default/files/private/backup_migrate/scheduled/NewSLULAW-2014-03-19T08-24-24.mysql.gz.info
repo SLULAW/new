@@ -1,0 +1,8 @@
+filename = "NewSLULAW-2014-03-19T08-24-24"
+description = ""
+datestamp = "1395235486"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.26"
+sites[0][name] = "New SLU LAW"
+sites[0][url] = "https://www.slu.edu/colleges/law/new/"
